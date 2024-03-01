@@ -133,4 +133,4 @@ no_jump = "{int(OO0000OOOOO0OOO0O)}";"""#line:207
   print (f"Deleting {O00O00O0OO000OO0O}!")#line:222
   os .remove (O00O00O0OO000OO0O )#line:223
   print (f"Deleted.")#line:224
-bot.run ("MTIwNTIzODg0MjczOTkyMDkxNg.Gf1zdn.xNYCczSu7wVq23UgrK2eu4PR8cFXAp1d1t_Wus")
+bot.run ("GRIMIORE")
